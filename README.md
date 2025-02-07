@@ -8,4 +8,8 @@ https://www.reddit.com/r/learnmachinelearning/comments/1gq6jsr/%F0%9D%90%81%F0%9
 case studies
 https://www.evidentlyai.com/ml-system-design
 
+
+#posts 
+https://www.reddit.com/r/MachineLearning/comments/1gsqqns/r_mustread_ml_theory_papers/
+
 #books

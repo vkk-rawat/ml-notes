@@ -1,0 +1,1 @@
+https://www.reddit.com/r/MachineLearning/comments/55n6wp/algorithmic_aspects_of_machine_learning_notes/
